@@ -78,3 +78,17 @@ h2 {
     border-image: linear-gradient(red, orange);
     border-image-slice: 1;
 }
+
+.world-text {
+    color: rgba(40, 72, 215, 0.537);
+}
+
+.exp {
+    color: coral;
+    margin-left: 20px;
+}
+
+footer p {
+    color: rgba(40, 72, 215, 0.537);
+    text-align: center;
+}
