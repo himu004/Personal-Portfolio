@@ -1,5 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
 
 .name-color{
-    color: gold;
+    color: orange;
     font-weight: 800px;
 }
